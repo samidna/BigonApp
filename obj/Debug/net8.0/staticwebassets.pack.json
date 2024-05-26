@@ -1,0 +1,573 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\default.css",
+      "PackagePath": "staticwebassets\\assets\\css\\default.css"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\home-2.css",
+      "PackagePath": "staticwebassets\\assets\\css\\home-2.css"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\home-3.css",
+      "PackagePath": "staticwebassets\\assets\\css\\home-3.css"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\home-4.css",
+      "PackagePath": "staticwebassets\\assets\\css\\home-4.css"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\images\\ui-bg_glass_75_d0e5f5_1x400.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-bg_glass_75_d0e5f5_1x400.html"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\images\\ui-bg_glass_85_dfeffc_1x400.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-bg_glass_85_dfeffc_1x400.html"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\images\\ui-bg_glass_95_fef1ec_1x400.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-bg_glass_95_fef1ec_1x400.html"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.html"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.html"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.html"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\images\\ui-icons_217bc0_256x240.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_217bc0_256x240.html"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\images\\ui-icons_2e83ff_256x240.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_2e83ff_256x240.html"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\images\\ui-icons_469bdd_256x240.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_469bdd_256x240.html"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\images\\ui-icons_6da8d5_256x240.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_6da8d5_256x240.html"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\images\\ui-icons_cd0a0a_256x240.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_cd0a0a_256x240.html"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\images\\ui-icons_d8e7f3_256x240.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_d8e7f3_256x240.html"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\images\\ui-icons_f9bd01_256x240.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_f9bd01_256x240.html"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery.fancybox.css"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\meanmenu.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\meanmenu.min.css"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\nivo-slider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nivo-slider.css"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\banner\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\banner\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\10.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\banner\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\11.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\banner\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\12.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\banner\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\13.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\banner\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\14.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\banner\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\banner\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\3.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\banner\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\4.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\banner\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\5.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\banner\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\6.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\banner\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\7.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\banner\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\8.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\banner\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\9.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\3.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\blog\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\4.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\blog\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\5.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\blog\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\6.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\brand\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand\\1.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\brand\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand\\2.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\brand\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand\\3.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\brand\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand\\4.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\categorie\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\categorie\\1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\categorie\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\categorie\\2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\categorie\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\categorie\\3.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\categorie\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\categorie\\4.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\footer\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\footer\\1.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\icon\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\1.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\icon\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\2.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\icon\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\3.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\icon\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\4.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\icon\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\5.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\icon\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\favicon.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\logo\\logo2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo2.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\logo\\logo3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo3.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\menu\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\menu\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\products\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\products\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\10.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\products\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\11.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\products\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\12.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\products\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\13.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\products\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\14.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\products\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\15.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\products\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\16.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\products\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\17.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\products\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\18.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\products\\19.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\19.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\products\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\products\\20.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\20.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\products\\21.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\21.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\products\\22.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\22.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\products\\23.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\23.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\products\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\3.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\products\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\4.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\products\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\5.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\products\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\6.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\products\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\7.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\products\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\8.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\products\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\9.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\slider\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\slider\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\slider\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\3.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\slider\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\4.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\slider\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\5.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\slider\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\6.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\slider\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\7.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\slider\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\8.jpg"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\testmonial\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testmonial\\1.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\testmonial\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testmonial\\2.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\testmonial\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testmonial\\3.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\vertical-menu\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\vertical-menu\\1.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\vertical-menu\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\vertical-menu\\2.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\vertical-menu\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\vertical-menu\\3.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\vertical-menu\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\vertical-menu\\4.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\vertical-menu\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\vertical-menu\\5.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\vertical-menu\\6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\vertical-menu\\6.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\vertical-menu\\7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\vertical-menu\\7.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\img\\vertical-menu\\8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\vertical-menu\\8.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\js\\ajax-mail.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ajax-mail.js"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\js\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\js\\jquery.meanmenu.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.meanmenu.min.js"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\js\\jquery.nivo.slider.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.nivo.slider.js"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\js\\jquery.scrollUp.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.scrollUp.js"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins.js"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\js\\vendor\\jquery-migrate-1.4.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-migrate-1.4.1.min.js"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\js\\vendor\\modernizr-2.8.3.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr-2.8.3.min.js"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wow.min.js"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\libs\\toastr.js\\customtoastr.js",
+      "PackagePath": "staticwebassets\\libs\\toastr.js\\customtoastr.js"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\libs\\toastr.js\\toastr.css",
+      "PackagePath": "staticwebassets\\libs\\toastr.js\\toastr.css"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\libs\\toastr.js\\toastr.js.map",
+      "PackagePath": "staticwebassets\\libs\\toastr.js\\toastr.js.map"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\libs\\toastr.js\\toastr.min.css",
+      "PackagePath": "staticwebassets\\libs\\toastr.js\\toastr.min.css"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\libs\\toastr.js\\toastr.min.js",
+      "PackagePath": "staticwebassets\\libs\\toastr.js\\toastr.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BigonApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BigonApp.props",
+      "PackagePath": "build\\BigonApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BigonApp.props",
+      "PackagePath": "buildMultiTargeting\\BigonApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BigonApp.props",
+      "PackagePath": "buildTransitive\\BigonApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
