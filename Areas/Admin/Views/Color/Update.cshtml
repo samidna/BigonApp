@@ -1,0 +1,25 @@
+﻿@model Color
+
+<div class="card">
+    <div class="card-header">
+        <h5>Update color</h5>
+    </div>
+    <div class="card-block">
+        <form method="post" asp-action="update" asp-controller="color">
+            <div class="form-group row">
+                <label asp-for=Name class="col-sm-2 col-form-label"></label>
+                <div class="col-sm-10">
+                    <input asp-for=Name type="text" class="form-control" placeholder="Color name">
+                </div>
+            </div>
+            <div class="form-group row">
+                <label asp-for=HexCode class="col-sm-2 col-form-label">Color</label>
+                <div class="col-sm-10">
+                    <input asp-for=HexCode type="color" class="form-control">
+                </div>
+            </div>
+            <a asp-action="index" asp-controller="color" class="btn btn-light">Back</a>
+            <button class="btn btn-success">Submit</button>
+        </form>
+    </div>
+</div>

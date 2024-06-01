@@ -1,0 +1,33 @@
+﻿@model Color
+
+<div class="card">
+    <div class="card-header">
+        <h5>Color info</h5>
+    </div>
+    <div class="card-block table-border-style">
+        <div class="table-responsive">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>HexCode</th>
+                        <th>Created Date</th>
+                        <th>Modified Date</th>
+                        <th>Deleted Date</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>@Model.Name</td>
+                        <td>@Model.HexCode</td>
+                        <td>@Model.CreatedAt</td>
+                        <td>@Model?.ModifiedAt</td>
+                        <td>@Model?.DeletedAt</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<a class="btn btn-light" asp-action="index" asp-controller="color">Back</a>
+<a class="btn btn-warning" asp-action="update" asp-controller="color" asp-route-id="@Model.Id">Update</a>
