@@ -32,6 +32,7 @@
     <!-- Style.css -->
     <link rel="stylesheet" type="text/css" href="~/admin/assets/css/style.css">
     <link rel="stylesheet" type="text/css" href="~/admin/assets/css/jquery.mCustomScrollbar.css">
+    <link rel="stylesheet" type="text/css" href="~/libs/sweetalert2/sweetalert2.css">
 </head>
 
 <body>
@@ -405,14 +406,15 @@
     <!-- modernizr js -->
     <script type="text/javascript" src="~/admin/bower_components/modernizr/modernizr.js"></script>
     <!-- Chart js -->
-    <script type="text/javascript" src="~/admin/bower_components/chart.js/dist/Chart.js"></script>
     <!-- amchart js -->
     <script src="~/admin/assets/js/jquery.mCustomScrollbar.concat.min.js"></script>
-    <script type="text/javascript" src="~/admin/assets/js/SmoothScroll.js"></script>
     <script src="~/admin/assets/js/pcoded.min.js"></script>
     <!-- custom js -->
     <script src="~/admin/assets/js/vartical-layout.min.js"></script>
     <script type="text/javascript" src="~/admin/assets/js/script.min.js"></script>
+    <script src="~/libs/sweetalert2/sweetalert2.all.js"></script>
+
+    @RenderSection("custom_js",false)
 </body>
 
 

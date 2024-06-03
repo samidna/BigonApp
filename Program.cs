@@ -17,6 +17,8 @@ builder.Services.Configure<EmailOptions>(str =>
 });
 
 builder.Services.AddSingleton<IEmailService, EmailService>();
+builder.Services.AddSingleton<IDatetimeService, DatetimeService>();
+builder.Services.AddScoped<IUserService, UserService>();
 
 var app = builder.Build();
 

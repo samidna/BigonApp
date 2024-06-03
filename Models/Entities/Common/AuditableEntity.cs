@@ -1,6 +1,6 @@
 ﻿namespace BigonApp.Models.Entities.Common;
 
-public abstract class AuditableEntity
+public abstract class AuditableEntity : IAuditableEntity
 {
     public int CreatedBy { get; set; }
     public int? ModifiedBy { get; set; }

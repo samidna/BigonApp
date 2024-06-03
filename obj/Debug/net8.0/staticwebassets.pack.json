@@ -5957,6 +5957,34 @@
       "PackagePath": "staticwebassets\\assets\\js\\wow.min.js"
     },
     {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\libs\\sweetalert2\\sweetalert2.all.js",
+      "PackagePath": "staticwebassets\\libs\\sweetalert2\\sweetalert2.all.js"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\libs\\sweetalert2\\sweetalert2.all.min.js",
+      "PackagePath": "staticwebassets\\libs\\sweetalert2\\sweetalert2.all.min.js"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\libs\\sweetalert2\\sweetalert2.css",
+      "PackagePath": "staticwebassets\\libs\\sweetalert2\\sweetalert2.css"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\libs\\sweetalert2\\sweetalert2.d.ts",
+      "PackagePath": "staticwebassets\\libs\\sweetalert2\\sweetalert2.d.ts"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\libs\\sweetalert2\\sweetalert2.js",
+      "PackagePath": "staticwebassets\\libs\\sweetalert2\\sweetalert2.js"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\libs\\sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\libs\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\libs\\sweetalert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\libs\\sweetalert2\\sweetalert2.min.js"
+    },
+    {
       "Id": "D:\\C#\\BigonApp\\wwwroot\\libs\\toastr.js\\customtoastr.js",
       "PackagePath": "staticwebassets\\libs\\toastr.js\\customtoastr.js"
     },

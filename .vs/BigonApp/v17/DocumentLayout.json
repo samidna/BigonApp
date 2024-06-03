@@ -3,12 +3,52 @@
   "WorkspaceRootPath": "D:\\C#\\BigonApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.csproj|d:\\c#\\bigonapp\\areas\\admin\\views\\color\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.csproj|solutionrelative:areas\\admin\\views\\color\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.csproj|d:\\c#\\bigonapp\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.csproj|solutionrelative:models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.csproj|d:\\c#\\bigonapp\\helpers\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.csproj|solutionrelative:helpers\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.csproj|d:\\c#\\bigonapp\\helpers\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.csproj|solutionrelative:helpers\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.csproj|d:\\c#\\bigonapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.csproj|d:\\c#\\bigonapp\\helpers\\services\\datetimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.csproj|solutionrelative:helpers\\services\\datetimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.csproj|d:\\c#\\bigonapp\\helpers\\services\\idatetimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.csproj|solutionrelative:helpers\\services\\idatetimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.csproj|d:\\c#\\bigonapp\\areas\\admin\\controllers\\colorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.csproj|solutionrelative:areas\\admin\\controllers\\colorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.csproj|d:\\c#\\bigonapp\\models\\entities\\common\\iauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.csproj|solutionrelative:models\\entities\\common\\iauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.csproj|d:\\c#\\bigonapp\\models\\entities\\common\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.csproj|solutionrelative:models\\entities\\common\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.csproj|d:\\c#\\bigonapp\\areas\\admin\\views\\color\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.csproj|solutionrelative:areas\\admin\\views\\color\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.csproj|d:\\c#\\bigonapp\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.csproj|d:\\c#\\bigonapp\\areas\\admin\\views\\color\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.csproj|solutionrelative:areas\\admin\\views\\color\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,25 +67,155 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Helpers\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Helpers\\Services\\UserService.cs",
+              "ToolTip": "D:\\C#\\BigonApp\\Helpers\\Services\\UserService.cs*",
+              "RelativeToolTip": "Helpers\\Services\\UserService.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:47:21.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Helpers\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Helpers\\Services\\IUserService.cs",
+              "ToolTip": "D:\\C#\\BigonApp\\Helpers\\Services\\IUserService.cs*",
+              "RelativeToolTip": "Helpers\\Services\\IUserService.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:46:43.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C#\\BigonApp\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:44:41.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDatetimeService.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Helpers\\Services\\IDatetimeService.cs",
+              "RelativeDocumentMoniker": "Helpers\\Services\\IDatetimeService.cs",
+              "ToolTip": "D:\\C#\\BigonApp\\Helpers\\Services\\IDatetimeService.cs*",
+              "RelativeToolTip": "Helpers\\Services\\IDatetimeService.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:41:55.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatetimeService.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Helpers\\Services\\DatetimeService.cs",
+              "RelativeDocumentMoniker": "Helpers\\Services\\DatetimeService.cs",
+              "ToolTip": "D:\\C#\\BigonApp\\Helpers\\Services\\DatetimeService.cs*",
+              "RelativeToolTip": "Helpers\\Services\\DatetimeService.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:41:23.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Models\\DataContext.cs",
+              "RelativeDocumentMoniker": "Models\\DataContext.cs",
+              "ToolTip": "D:\\C#\\BigonApp\\Models\\DataContext.cs*",
+              "RelativeToolTip": "Models\\DataContext.cs*",
+              "ViewState": "AQIAACMAAAAAAAAAAAAcwCwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:29:06.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuditableEntity.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Models\\Entities\\Common\\AuditableEntity.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Common\\AuditableEntity.cs",
+              "ToolTip": "D:\\C#\\BigonApp\\Models\\Entities\\Common\\AuditableEntity.cs*",
+              "RelativeToolTip": "Models\\Entities\\Common\\AuditableEntity.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:28:17.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuditableEntity.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Models\\Entities\\Common\\IAuditableEntity.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Common\\IAuditableEntity.cs",
+              "ToolTip": "D:\\C#\\BigonApp\\Models\\Entities\\Common\\IAuditableEntity.cs*",
+              "RelativeToolTip": "Models\\Entities\\Common\\IAuditableEntity.cs*",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:28:15.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Color\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Color\\Index.cshtml",
+              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Color\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Color\\Index.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAAAYwEAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T10:40:47.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwCIAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T10:38:45.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ColorController.cs",
               "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Controllers\\ColorController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ColorController.cs",
-              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Controllers\\ColorController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\ColorController.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAADQAAAAsAAAA",
+              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Controllers\\ColorController.cs*",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ColorController.cs*",
+              "ViewState": "AQIAADYAAAAAAAAAAAAIwD8AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T13:33:37.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Color\\Details.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Color\\Details.cshtml",
               "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Color\\Details.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Color\\Details.cshtml",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAABwAAAAOAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABcAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-01T13:28:03.119Z",
               "EditorCaption": ""

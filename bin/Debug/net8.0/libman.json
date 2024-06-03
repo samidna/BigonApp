@@ -5,6 +5,10 @@
     {
       "library": "toastr.js@2.1.4",
       "destination": "wwwroot/libs/toastr.js/"
+    },
+    {
+      "library": "sweetalert2@11.11.0",
+      "destination": "wwwroot/libs/sweetalert2/"
     }
   ]
 }

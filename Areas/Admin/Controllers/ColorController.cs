@@ -16,7 +16,7 @@ namespace BigonApp.Areas.Admin.Controllers
 
         public IActionResult Index()
         {
-            var colors = _db.Colors.ToList();
+            var colors = _db.Colors.Where(c=>c.DeletedBy == null).ToList();
             return View(colors);
         }
         public IActionResult Create()
@@ -26,8 +26,6 @@ namespace BigonApp.Areas.Admin.Controllers
         [HttpPost]
         public IActionResult Create(Color color)
         {
-            color.CreatedAt=DateTime.Now;
-            color.CreatedBy=1;
             _db.Colors.Add(color);
             _db.SaveChanges();
             return RedirectToAction(nameof(Index));
@@ -45,8 +43,6 @@ namespace BigonApp.Areas.Admin.Controllers
             if (dbColor is null) return NotFound();
             dbColor.Name=color.Name;
             dbColor.HexCode=color.HexCode;
-            dbColor.ModifiedBy=1;
-            dbColor.ModifiedAt=DateTime.Now;
             _db.SaveChanges();
             return RedirectToAction(nameof(Index));
         }
@@ -55,6 +51,24 @@ namespace BigonApp.Areas.Admin.Controllers
             var color = _db.Colors.Find(id);
             if (color is null) return NotFound();
             return View(color);
+        }
+        public IActionResult Delete(int id)
+        {
+            var color = _db.Colors.Find(id);
+            if (color is null) return Json(new
+            {
+                error = true,
+                message = "Color not found"
+            });
+
+            _db.Colors.Remove(color);
+            _db.SaveChanges();
+
+            return Ok(new
+            {
+                error=false,
+                message="Color deleted!"
+            });
         }
     }
 }
