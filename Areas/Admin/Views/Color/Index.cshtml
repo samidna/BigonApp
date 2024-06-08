@@ -17,19 +17,8 @@
                         <th>Actions</th>
                     </tr>
                 </thead>
-                <tbody>
-                    @foreach (var color in Model)
-                    {
-                        <tr>
-                            <td>@color.Name</td>
-                            <td><span color style="background:@color.HexCode"></span></td>
-                            <td>
-                                <a class="btn btn-primary" asp-action="details" asp-controller="color" asp-route-id="@color.Id">Info</a>
-                                <a class="btn btn-warning" asp-action="update" asp-controller="color" asp-route-id="@color.Id">Update</a>
-                                <a onclick="remove(@color.Id,'@color.Name')" class="btn btn-danger">Delete</a>
-                            </td>
-                        </tr>
-                    }
+                <tbody id="body">
+                   <partial name="_Body" model="@Model" />
                 </tbody>
             </table>
         </div>
@@ -39,6 +28,9 @@
     <script>
 
         function remove(id, name) {
+
+            const body = $("#body");
+
             Swal.fire({
                 title: "Are you sure?",
                 text: "You won't be able to revert this!",
@@ -61,9 +53,7 @@
                                     icon: "success"
                                 });
 
-                                setTimeout(()=>{
-                                    location.reload()
-                                },2000)
+                                body.html(result);
                                 return;
                             }
                             Swal.fire({

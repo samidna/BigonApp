@@ -208,4 +208,9 @@
     <None Include="wwwroot\admin\bower_components\underscore\underscore-min.js" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BigonApp.Data\BigonApp.Data.csproj" />
+    <ProjectReference Include="..\BigonApp.Infrastructure\BigonApp.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

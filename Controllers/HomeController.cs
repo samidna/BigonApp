@@ -1,6 +1,6 @@
-﻿using BigonApp.Helpers.Services;
-using BigonApp.Models;
-using BigonApp.Models.Entities;
+﻿using BigonApp.Data.Persistences;
+using BigonApp.Infrastructure.Entities;
+using BigonApp.Infrastructure.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Globalization;

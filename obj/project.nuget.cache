@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "17iw24X6sQQ2ysGMs5JUFskLVxxBjy9WrQ3D4P3Z8vuYPMCmvl1f6hyBTiysZ9CuHooXLq1h6sTBonCyrWi+pQ==",
+  "dgSpecHash": "1wyWzpC/bOeK8s6XaeSU2bZlkT3QBq/KYoXS/hsPDoRaQfKeqkoakOkKBO7vl5T/aySR/CFcY1soZK0jRsyzag==",
   "success": true,
-  "projectFilePath": "D:\\C#\\BigonApp\\BigonApp.csproj",
+  "projectFilePath": "D:\\C#\\BigonApp\\BigonApp.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
