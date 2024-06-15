@@ -3,50 +3,39 @@
   "WorkspaceRootPath": "D:\\C#\\BigonApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66A47344-3B56-486F-A47F-A899B495795A}|..\\BigonApp.Data\\BigonApp.Data.csproj|d:\\c#\\bigonapp.data\\dataserviceinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\areas\\admin\\views\\blogposts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:areas\\admin\\views\\blogposts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\areas\\admin\\views\\blogposts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:areas\\admin\\views\\blogposts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\areas\\admin\\controllers\\colorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:areas\\admin\\controllers\\colorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\areas\\admin\\views\\blogposts\\_body.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:areas\\admin\\views\\blogposts\\_body.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3D775ED-F0F4-4BEA-B3BF-7A0ECDE6D7E0}|..\\BigonApp.Infrastructure\\BigonApp.Infrastructure.csproj|d:\\c#\\bigonapp.infrastructure\\commons\\implements\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\areas\\admin\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:areas\\admin\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90323810-7658-439E-B6FC-84C1E6C2DA1C}|..\\BigonApp.Business\\BigonApp.Business.csproj|d:\\c#\\bigonapp.business\\modules\\blogpostsmodules\\queries\\blogpostsgetall\\blogpostsgetallrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3D775ED-F0F4-4BEA-B3BF-7A0ECDE6D7E0}|..\\BigonApp.Infrastructure\\BigonApp.Infrastructure.csproj|d:\\c#\\bigonapp.infrastructure\\commons\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90323810-7658-439E-B6FC-84C1E6C2DA1C}|..\\BigonApp.Business\\BigonApp.Business.csproj|d:\\c#\\bigonapp.business\\modules\\blogpostsmodules\\queries\\blogpostsgetall\\blogpostsgetalldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66A47344-3B56-486F-A47F-A899B495795A}|..\\BigonApp.Data\\BigonApp.Data.csproj|d:\\c#\\bigonapp.data\\repositories\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90323810-7658-439E-B6FC-84C1E6C2DA1C}|..\\BigonApp.Business\\BigonApp.Business.csproj|d:\\c#\\bigonapp.business\\modules\\blogpostsmodules\\queries\\blogpostsgetall\\blogpostsgetallrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3D775ED-F0F4-4BEA-B3BF-7A0ECDE6D7E0}|..\\BigonApp.Infrastructure\\BigonApp.Infrastructure.csproj|d:\\c#\\bigonapp.infrastructure\\repositories\\icolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3D775ED-F0F4-4BEA-B3BF-7A0ECDE6D7E0}|..\\BigonApp.Infrastructure\\BigonApp.Infrastructure.csproj|d:\\c#\\bigonapp.infrastructure\\repositories\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3D775ED-F0F4-4BEA-B3BF-7A0ECDE6D7E0}|..\\BigonApp.Infrastructure\\BigonApp.Infrastructure.csproj|d:\\c#\\bigonapp.infrastructure\\commons\\interfaces\\iauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66A47344-3B56-486F-A47F-A899B495795A}|..\\BigonApp.Data\\BigonApp.Data.csproj|d:\\c#\\bigonapp.data\\repositories\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\bigonapp.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:bigonapp.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66A47344-3B56-486F-A47F-A899B495795A}|..\\BigonApp.Data\\BigonApp.Data.csproj|d:\\c#\\bigonapp.data\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66A47344-3B56-486F-A47F-A899B495795A}|..\\BigonApp.Data\\BigonApp.Data.csproj|d:\\c#\\bigonapp.data\\migrations\\20240526130005_createdtablesubscribers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66A47344-3B56-486F-A47F-A899B495795A}|..\\BigonApp.Data\\BigonApp.Data.csproj|d:\\c#\\bigonapp.data\\migrations\\20240526122810_createdtablecategories.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66A47344-3B56-486F-A47F-A899B495795A}|..\\BigonApp.Data\\BigonApp.Data.csproj|d:\\c#\\bigonapp.data\\migrations\\20240526112911_createdtablecolors.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,183 +54,131 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\C#\\BigonApp\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\C#\\BigonApp\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-08T12:45:35.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C#\\BigonApp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\C#\\BigonApp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAsAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T12:16:55.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DataServiceInjection.cs",
-              "DocumentMoniker": "D:\\C#\\BigonApp.Data\\DataServiceInjection.cs",
-              "RelativeDocumentMoniker": "..\\BigonApp.Data\\DataServiceInjection.cs",
-              "ToolTip": "D:\\C#\\BigonApp.Data\\DataServiceInjection.cs*",
-              "RelativeToolTip": "..\\BigonApp.Data\\DataServiceInjection.cs*",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABMAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T12:15:45.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ColorController.cs",
-              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Controllers\\ColorController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ColorController.cs",
-              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Controllers\\ColorController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\ColorController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T11:42:50.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IColorRepository.cs",
-              "DocumentMoniker": "D:\\C#\\BigonApp.Infrastructure\\Repositories\\IColorRepository.cs",
-              "RelativeDocumentMoniker": "..\\BigonApp.Infrastructure\\Repositories\\IColorRepository.cs",
-              "ToolTip": "D:\\C#\\BigonApp.Infrastructure\\Repositories\\IColorRepository.cs",
-              "RelativeToolTip": "..\\BigonApp.Infrastructure\\Repositories\\IColorRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T11:33:11.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ColorRepository.cs",
-              "DocumentMoniker": "D:\\C#\\BigonApp.Data\\Repositories\\ColorRepository.cs",
-              "RelativeDocumentMoniker": "..\\BigonApp.Data\\Repositories\\ColorRepository.cs",
-              "ToolTip": "D:\\C#\\BigonApp.Data\\Repositories\\ColorRepository.cs",
-              "RelativeToolTip": "..\\BigonApp.Data\\Repositories\\ColorRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T11:30:45.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\C#\\BigonApp.Infrastructure\\Commons\\Implements\\Repository.cs",
-              "RelativeDocumentMoniker": "..\\BigonApp.Infrastructure\\Commons\\Implements\\Repository.cs",
-              "ToolTip": "D:\\C#\\BigonApp.Infrastructure\\Commons\\Implements\\Repository.cs",
-              "RelativeToolTip": "..\\BigonApp.Infrastructure\\Commons\\Implements\\Repository.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAowDIAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T11:27:19.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IAuditableEntity.cs",
-              "DocumentMoniker": "D:\\C#\\BigonApp.Infrastructure\\Commons\\Interfaces\\IAuditableEntity.cs",
-              "RelativeDocumentMoniker": "..\\BigonApp.Infrastructure\\Commons\\Interfaces\\IAuditableEntity.cs",
-              "ToolTip": "D:\\C#\\BigonApp.Infrastructure\\Commons\\Interfaces\\IAuditableEntity.cs",
-              "RelativeToolTip": "..\\BigonApp.Infrastructure\\Commons\\Interfaces\\IAuditableEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T11:23:56.547Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\BlogPosts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\BlogPosts\\Index.cshtml",
+              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\BlogPosts\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\BlogPosts\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T14:04:26.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\C#\\BigonApp.Infrastructure\\Commons\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "..\\BigonApp.Infrastructure\\Commons\\Interfaces\\IRepository.cs",
-              "ToolTip": "D:\\C#\\BigonApp.Infrastructure\\Commons\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "..\\BigonApp.Infrastructure\\Commons\\Interfaces\\IRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "BlogPostsGetAllDto.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetAll\\BlogPostsGetAllDto.cs",
+              "RelativeDocumentMoniker": "..\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetAll\\BlogPostsGetAllDto.cs",
+              "ToolTip": "D:\\C#\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetAll\\BlogPostsGetAllDto.cs",
+              "RelativeToolTip": "..\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetAll\\BlogPostsGetAllDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwAkAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T11:23:34.07Z",
+              "WhenOpened": "2024-06-15T13:50:59.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogPostsGetAllRequestHandler.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetAll\\BlogPostsGetAllRequestHandler.cs",
+              "RelativeDocumentMoniker": "..\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetAll\\BlogPostsGetAllRequestHandler.cs",
+              "ToolTip": "D:\\C#\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetAll\\BlogPostsGetAllRequestHandler.cs",
+              "RelativeToolTip": "..\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetAll\\BlogPostsGetAllRequestHandler.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:47:59.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogPostsController.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Controllers\\BlogPostsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\BlogPostsController.cs",
+              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Controllers\\BlogPostsController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\BlogPostsController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowBoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:15:04.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Body.cshtml",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\BlogPosts\\_Body.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\BlogPosts\\_Body.cshtml",
+              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\BlogPosts\\_Body.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\BlogPosts\\_Body.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T13:04:05.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\BlogPosts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\BlogPosts\\Create.cshtml",
+              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\BlogPosts\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\BlogPosts\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T13:18:00.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogPostsGetAllRequest.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetAll\\BlogPostsGetAllRequest.cs",
+              "RelativeDocumentMoniker": "..\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetAll\\BlogPostsGetAllRequest.cs",
+              "ToolTip": "D:\\C#\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetAll\\BlogPostsGetAllRequest.cs",
+              "RelativeToolTip": "..\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetAll\\BlogPostsGetAllRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:47:30.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp.Infrastructure\\Repositories\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "..\\BigonApp.Infrastructure\\Repositories\\ICategoryService.cs",
+              "ToolTip": "D:\\C#\\BigonApp.Infrastructure\\Repositories\\ICategoryService.cs",
+              "RelativeToolTip": "..\\BigonApp.Infrastructure\\Repositories\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:24:08.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp.Data\\Repositories\\CategoryService.cs",
+              "RelativeDocumentMoniker": "..\\BigonApp.Data\\Repositories\\CategoryService.cs",
+              "ToolTip": "D:\\C#\\BigonApp.Data\\Repositories\\CategoryService.cs",
+              "RelativeToolTip": "..\\BigonApp.Data\\Repositories\\CategoryService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:24:51.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "BigonApp.UI.csproj",
-              "DocumentMoniker": "D:\\C#\\BigonApp\\BigonApp.UI.csproj",
-              "RelativeDocumentMoniker": "BigonApp.UI.csproj",
-              "ToolTip": "D:\\C#\\BigonApp\\BigonApp.UI.csproj",
-              "RelativeToolTip": "BigonApp.UI.csproj",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAAwGMAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-08T11:12:11.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DataContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\C#\\BigonApp.Data\\Migrations\\DataContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "..\\BigonApp.Data\\Migrations\\DataContextModelSnapshot.cs",
-              "ToolTip": "D:\\C#\\BigonApp.Data\\Migrations\\DataContextModelSnapshot.cs",
-              "RelativeToolTip": "..\\BigonApp.Data\\Migrations\\DataContextModelSnapshot.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAgwAoAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T11:09:35.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20240526130005_CreatedTableSubscribers.Designer.cs",
-              "DocumentMoniker": "D:\\C#\\BigonApp.Data\\Migrations\\20240526130005_CreatedTableSubscribers.Designer.cs",
-              "RelativeDocumentMoniker": "..\\BigonApp.Data\\Migrations\\20240526130005_CreatedTableSubscribers.Designer.cs",
-              "ToolTip": "D:\\C#\\BigonApp.Data\\Migrations\\20240526130005_CreatedTableSubscribers.Designer.cs",
-              "RelativeToolTip": "..\\BigonApp.Data\\Migrations\\20240526130005_CreatedTableSubscribers.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T11:09:15.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20240526122810_CreatedTableCategories.Designer.cs",
-              "DocumentMoniker": "D:\\C#\\BigonApp.Data\\Migrations\\20240526122810_CreatedTableCategories.Designer.cs",
-              "RelativeDocumentMoniker": "..\\BigonApp.Data\\Migrations\\20240526122810_CreatedTableCategories.Designer.cs",
-              "ToolTip": "D:\\C#\\BigonApp.Data\\Migrations\\20240526122810_CreatedTableCategories.Designer.cs",
-              "RelativeToolTip": "..\\BigonApp.Data\\Migrations\\20240526122810_CreatedTableCategories.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T11:09:13.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "20240526112911_CreatedTableColors.Designer.cs",
-              "DocumentMoniker": "D:\\C#\\BigonApp.Data\\Migrations\\20240526112911_CreatedTableColors.Designer.cs",
-              "RelativeDocumentMoniker": "..\\BigonApp.Data\\Migrations\\20240526112911_CreatedTableColors.Designer.cs",
-              "ToolTip": "D:\\C#\\BigonApp.Data\\Migrations\\20240526112911_CreatedTableColors.Designer.cs",
-              "RelativeToolTip": "..\\BigonApp.Data\\Migrations\\20240526112911_CreatedTableColors.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T11:09:11.14Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAGUBAAAAAAAAAAAnwHEBAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T13:11:49.115Z",
               "EditorCaption": ""
             }
           ]

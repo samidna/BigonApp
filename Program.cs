@@ -1,3 +1,4 @@
+using BigonApp.Business;
 using BigonApp.Data;
 using BigonApp.Data.Persistences;
 using BigonApp.Infrastructure.Commons.Implements;
@@ -6,6 +7,8 @@ using BigonApp.Infrastructure.Services.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(IBusinessService).Assembly));
 
 builder.Services.AddControllersWithViews();
 
@@ -20,6 +23,7 @@ builder.Services.AddRouting(cfg => cfg.LowercaseUrls = true);
 
 builder.Services.AddSingleton<IEmailService, EmailService>();
 builder.Services.AddSingleton<IDatetimeService, DatetimeService>();
+builder.Services.AddSingleton<IFileService, FileService>();
 builder.Services.AddScoped<IUserService, UserService>();
 
 var app = builder.Build();

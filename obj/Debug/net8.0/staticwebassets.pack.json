@@ -6005,6 +6005,14 @@
       "PackagePath": "staticwebassets\\libs\\toastr.js\\toastr.min.js"
     },
     {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\uploads\\images\\6d0093b7-7c3b-46f8-b193-54109121ac91.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\6d0093b7-7c3b-46f8-b193-54109121ac91.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\uploads\\images\\f035e447-c55b-4273-b292-8242e40a0124.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\f035e447-c55b-4273-b292-8242e40a0124.png"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BigonApp.UI.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

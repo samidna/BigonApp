@@ -254,3 +254,7 @@ D:\C#\BigonApp\bin\Debug\net8.0\BigonApp.Data.dll
 D:\C#\BigonApp\bin\Debug\net8.0\BigonApp.Infrastructure.dll
 D:\C#\BigonApp\bin\Debug\net8.0\BigonApp.Data.pdb
 D:\C#\BigonApp\bin\Debug\net8.0\BigonApp.Infrastructure.pdb
+D:\C#\BigonApp\bin\Debug\net8.0\MediatR.dll
+D:\C#\BigonApp\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\C#\BigonApp\bin\Debug\net8.0\BigonApp.Business.dll
+D:\C#\BigonApp\bin\Debug\net8.0\BigonApp.Business.pdb

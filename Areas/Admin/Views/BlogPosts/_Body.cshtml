@@ -1,0 +1,17 @@
+﻿@using BigonApp.Business.Modules.BlogPostsModules.Queries.BlogPostsGetAll
+@model IEnumerable<BlogPostsGetAllDto>
+
+@foreach (var item in Model)
+{
+    <tr>
+        <td><img style="width:300px;height:150px;object-fit:contain" src="~/uploads/images/@item.FilePath" /></td>
+        <td>@item.Title</td>
+        <td>@item.Body</td>
+        <td>@item.CategoryName</td>
+        <td>
+            <a class="btn btn-primary" asp-action="details" asp-controller="blogposts" asp-route-id="@item.Id">Info</a>
+            <a class="btn btn-warning" asp-action="update" asp-controller="blogposts" asp-route-id="@item.Id">Update</a>
+            <a onclick="remove(@item.Id,'@item.Title')" class="btn btn-danger">Delete</a>
+        </td>
+    </tr>
+}

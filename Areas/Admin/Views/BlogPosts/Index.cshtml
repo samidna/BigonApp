@@ -1,10 +1,11 @@
-﻿@model IEnumerable<Color>
+﻿@using BigonApp.Business.Modules.BlogPostsModules.Queries.BlogPostsGetAll
+@model IEnumerable<BlogPostsGetAllDto>
 
 <div class="card">
     <div class="card-header">
         <div>
-            <h5>Colors</h5>
-            <a asp-action="create" asp-controller="color" class="btn btn-success">Add</a>
+            <h5>BlogPosts</h5>
+            <a asp-action="create" asp-controller="blogposts" class="btn btn-success">Add</a>
         </div>
     </div>
     <div class="card-block table-border-style">
@@ -12,13 +13,15 @@
             <table class="table">
                 <thead>
                     <tr>
-                        <th>Name</th>
-                        <th>Color</th>
+                        <th>Photo</th>
+                        <th>Title</th>
+                        <th>Body</th>
+                        <th>Category</th>
                         <th>Actions</th>
                     </tr>
                 </thead>
                 <tbody id="body">
-                   <partial name="_Body" model="@Model" />
+                    <partial name="_Body" model="@Model" />
                 </tbody>
             </table>
         </div>
@@ -42,11 +45,11 @@
             }).then((result) => {
                 if (result.isConfirmed) {
                     $.ajax({
-                        method:"POST",
-                        url: '@Url.Action("delete","color")',
-                        data: {id},
-                        success:(result)=>{
-                            if(!result.error){
+                        method: "POST",
+                        url: '@Url.Action("delete", "color")',
+                        data: { id },
+                        success: (result) => {
+                            if (!result.error) {
                                 Swal.fire({
                                     title: "Deleted!",
                                     text: result.message,
@@ -86,3 +89,4 @@
         height: 30px;
     }
 </style>
+
