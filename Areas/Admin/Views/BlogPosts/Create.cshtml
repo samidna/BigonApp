@@ -24,15 +24,30 @@
             <div class="form-group row">
                 <label asp-for=CategoryId class="col-sm-2 col-form-label">Categories</label>
                 <div class="col-sm-10">
-                    <select asp-for="CategoryId" asp-items="categories">
+                    <select class="form-control" asp-for="CategoryId" asp-items="categories">
                         <option selected disabled>--Select--</option>
                     </select>
                 </div>
             </div>
-            <div class="form-group row">
-                <label asp-for=FilePath class="col-sm-2 col-form-label"></label>
-                <div class="col-sm-10">
-                    <input name="file" type="file" class="form-control">
+            <div class="col-lg-12 mx-auto">
+                <label>Photo</label>
+                <!-- Upload image input-->
+                <div class="input-group mb-3 px-2 py-2 rounded-pill bg-white shadow-sm">
+                    <input id="upload"
+                           name="file"
+                           type="file"
+                           class="form-control border-0" />
+                    <label id="upload-label"
+                           for="upload"
+                           class="font-weight-light text-muted">Choose file</label>
+                    <div class="input-group-append">
+                        <label for="upload" class="btn btn-light m-0 rounded-pill px-4">
+                            <i class="fa fa-cloud-upload mr-2 text-muted"></i><small class="text-uppercase font-weight-bold text-muted">Choose file</small>
+                        </label>
+                    </div>
+                </div>
+
+                <div id="imageResult" class="image-area mt-4">
                 </div>
             </div>
             <a asp-action="index" asp-controller="blogposts" class="btn btn-light">Back</a>
@@ -41,3 +56,7 @@
     </div>
 </div>
 
+
+@section custom_js {
+    <script src="~/admin/assets/js/custom.js"></script>
+}

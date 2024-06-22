@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\admin\\assets\\css\\component.css"
     },
     {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\admin\\assets\\css\\custom.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\custom.css"
+    },
+    {
       "Id": "D:\\C#\\BigonApp\\wwwroot\\admin\\assets\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\admin\\assets\\css\\font-awesome.min.css"
     },
@@ -1955,6 +1959,10 @@
     {
       "Id": "D:\\C#\\BigonApp\\wwwroot\\admin\\assets\\js\\common-pages.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\common-pages.js"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\admin\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\custom.js"
     },
     {
       "Id": "D:\\C#\\BigonApp\\wwwroot\\admin\\assets\\js\\horizontal-layout.min.js",
@@ -6003,6 +6011,18 @@
     {
       "Id": "D:\\C#\\BigonApp\\wwwroot\\libs\\toastr.js\\toastr.min.js",
       "PackagePath": "staticwebassets\\libs\\toastr.js\\toastr.min.js"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\uploads\\images\\19226c1d-d508-46c3-bd1e-f702a3b2b0e6.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\19226c1d-d508-46c3-bd1e-f702a3b2b0e6.jfif"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\uploads\\images\\28cc7413-5610-4f7e-90a6-e48c208bc1ff.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\28cc7413-5610-4f7e-90a6-e48c208bc1ff.jfif"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\uploads\\images\\3ed77b37-f859-41ef-92c4-d557f8a8ea82.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\3ed77b37-f859-41ef-92c4-d557f8a8ea82.png"
     },
     {
       "Id": "D:\\C#\\BigonApp\\wwwroot\\uploads\\images\\6d0093b7-7c3b-46f8-b193-54109121ac91.png",

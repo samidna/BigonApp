@@ -1,5 +1,6 @@
 ﻿using BigonApp.Data.Persistences;
 using BigonApp.Infrastructure.Entities;
+using BigonApp.Infrastructure.Extensions;
 using BigonApp.Infrastructure.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -27,8 +28,7 @@ namespace BigonApp.Controllers
         [HttpPost]
         public async Task<IActionResult> Subscribe(string email)
         {
-            bool isEmail = Regex.IsMatch(email, @"^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$");
-            if (!isEmail)
+            if (!email.isEmail())
             {
                 return Json(new
                 {

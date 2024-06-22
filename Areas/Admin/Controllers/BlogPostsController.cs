@@ -1,4 +1,7 @@
-﻿using BigonApp.Business.Modules.BlogPostsModules.Queries.BlogPostsGetAll;
+﻿using BigonApp.Business.Modules.BlogPostsModules.Commands.BlogPostsAdd;
+using BigonApp.Business.Modules.BlogPostsModules.Commands.BlogPostUpdate;
+using BigonApp.Business.Modules.BlogPostsModules.Queries.BlogPostsGetAll;
+using BigonApp.Business.Modules.BlogPostsModules.Queries.BlogPostsGetById;
 using BigonApp.Infrastructure.Entities;
 using BigonApp.Infrastructure.Repositories;
 using BigonApp.Infrastructure.Services.Interfaces;
@@ -12,15 +15,11 @@ namespace BigonApp.UI.Areas.Admin.Controllers
     [Area("Admin")]
     public class BlogPostsController : Controller
     {
-        private readonly IBlogRepository _blogRepo;
-        private readonly IFileService _fileService;
         private readonly ICategoryService _catService;
         private readonly IMediator _mediator;
 
-        public BlogPostsController(IBlogRepository blogRepo, IFileService fileService,ICategoryService catService,IMediator mediator)
+        public BlogPostsController(ICategoryService catService,IMediator mediator)
         {
-            _blogRepo=blogRepo;
-            _fileService=fileService;
             _catService=catService;
             _mediator=mediator;
         }
@@ -37,19 +36,29 @@ namespace BigonApp.UI.Areas.Admin.Controllers
             return View();
         }
         [HttpPost]
-        public async Task<IActionResult> Create(BlogPost blogPost, IFormFile file)
-        { 
-            var fileName = await _fileService.UploadAsync(file);
-            var newBlogPost = new BlogPost
-            {
-                Title = blogPost.Title,
-                Body=blogPost.Body,
-                FilePath = fileName,
-                Slug=blogPost.Title,
-                CategoryId=blogPost.CategoryId
-            };
-            _blogRepo.Add(newBlogPost);
+        public async Task<IActionResult> Create(BlogPostsAddRequest request)
+        {
+            await _mediator.Send(request);
             return RedirectToAction(nameof(Index));
+        }
+        public async Task<IActionResult> Update(BlogPostsGetByIdRequest request)
+        {
+            var categories = _catService.GetAll(c => c.DeletedBy == null);
+            ViewBag.Categories = new SelectList(categories, "Id", "Name");
+
+            var response = await _mediator.Send(request);
+            return View(response);
+        }
+        [HttpPost]
+        public async Task<IActionResult> Update(BlogPostUpdateRequest request)
+        {
+            await _mediator.Send(request);
+            return RedirectToAction(nameof(Index));
+        }
+        public async Task<IActionResult> Details(BlogPostsGetByIdRequest request)
+        {
+            var response = await _mediator.Send(request);
+            return View(response);
         }
     }
 }

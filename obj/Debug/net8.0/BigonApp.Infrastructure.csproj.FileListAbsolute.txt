@@ -1,0 +1,14 @@
+D:\C#\BigonApp.Infrastructure\bin\Debug\net8.0\BigonApp.Infrastructure.deps.json
+D:\C#\BigonApp.Infrastructure\bin\Debug\net8.0\BigonApp.Infrastructure.dll
+D:\C#\BigonApp.Infrastructure\bin\Debug\net8.0\BigonApp.Infrastructure.pdb
+D:\C#\BigonApp.Infrastructure\obj\Debug\net8.0\BigonApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BigonApp.Infrastructure\obj\Debug\net8.0\BigonApp.Infrastructure.AssemblyInfoInputs.cache
+D:\C#\BigonApp.Infrastructure\obj\Debug\net8.0\BigonApp.Infrastructure.AssemblyInfo.cs
+D:\C#\BigonApp.Infrastructure\obj\Debug\net8.0\BigonApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\C#\BigonApp.Infrastructure\obj\Debug\net8.0\BigonApp.Infrastructure.dll
+D:\C#\BigonApp.Infrastructure\obj\Debug\net8.0\refint\BigonApp.Infrastructure.dll
+D:\C#\BigonApp.Infrastructure\obj\Debug\net8.0\BigonApp.Infrastructure.pdb
+D:\C#\BigonApp.Infrastructure\obj\Debug\net8.0\ref\BigonApp.Infrastructure.dll
+D:\C#\BigonApp.Infrastructure\obj\Debug\net8.0\BigonApp.Infrastructure.csproj.AssemblyReference.cache
+D:\C#\BigonApp.Infrastructure\bin\Debug\net8.0\BigonApp.Infrastructure.runtimeconfig.json
+D:\C#\BigonApp.Infrastructure\obj\Debug\net8.0\BigonApp.Infrastructure.genruntimeconfig.cache
