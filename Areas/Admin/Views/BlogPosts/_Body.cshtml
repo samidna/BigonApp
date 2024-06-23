@@ -9,8 +9,8 @@
         <td>@item.Body</td>
         <td>@item.CategoryName</td>
         <td>
-            <a class="btn btn-primary" asp-action="details" asp-controller="blogposts" asp-route-id="@item.Id">Info</a>
-            <a class="btn btn-warning" asp-action="update" asp-controller="blogposts" asp-route-id="@item.Id">Update</a>
+            <a class="btn btn-primary" asp-action="details" asp-controller="categories" asp-route-id="@item.Id">Info</a>
+            <a class="btn btn-warning" asp-action="update" asp-controller="categories" asp-route-id="@item.Id">Update</a>
             <a onclick="remove(@item.Id,'@item.Title')" class="btn btn-danger">Delete</a>
         </td>
     </tr>

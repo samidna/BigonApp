@@ -9,6 +9,10 @@
     {
       "library": "sweetalert2@11.11.0",
       "destination": "wwwroot/libs/sweetalert2/"
+    },
+    {
+      "library": "jquery-treegrid@0.2.0",
+      "destination": "wwwroot/libs/jquery-treegrid/"
     }
   ]
 }

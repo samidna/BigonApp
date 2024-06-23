@@ -1,0 +1,15 @@
+﻿@using BigonApp.Business.Modules.CategoryModules.Queries.CategoryGetAll
+@model IEnumerable<CategoryGetAllDto>
+
+@foreach (var item in Model)
+{
+    <tr>
+        <td>@item.Name</td>
+        <td>@item.ParentName</td>
+        <td>
+            <a class="btn btn-primary" asp-action="details" asp-controller="categories" asp-route-id="@item.Id">Info</a>
+            <a class="btn btn-warning" asp-action="update" asp-controller="categories" asp-route-id="@item.Id">Update</a>
+            <a onclick="remove(@item.Id,'@item.Name')" class="btn btn-danger">Delete</a>
+        </td>
+    </tr>
+}

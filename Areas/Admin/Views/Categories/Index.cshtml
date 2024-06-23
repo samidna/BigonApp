@@ -1,0 +1,113 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+@model IEnumerable<Category>
+@using BigonApp.Infrastructure.Extensions
+
+<div class="mb-4">
+    <h2>Categories</h2>
+    <a asp-action="create" asp-controller="categories" class="btn btn-outline-success">+Add</a>
+</div>
+<table class="tree table table-bordered">
+    <tbody>
+        @foreach (var item in Model.Where(m => m.ParentId == null))
+        {
+            <tr class="treegrid-@item.Id">
+                <td>@item.Name</td>
+                <td class="operation">
+                    <a class="btn btn-info" asp-action="details" asp-route-id="@item.Id">
+                        <i class="fa fa-eye"></i>
+                    </a>
+                    <a class="btn btn-warning" asp-action="edit" asp-route-id="@item.Id">
+                        <i class="fa fa-pencil"></i>
+                    </a>
+                    <a class="btn btn-danger" onclick="remove(@item.Id,'@item.Name')">
+                        <i class="fa fa-trash"></i>
+                    </a>
+                </td>
+            </tr>
+
+            foreach (var child in Model.GetHierArchy(item))
+            {
+                <tr class="treegrid-@child.Id treegrid-parent-@child.ParentId">
+                    <td>@child.Name</td>
+                    <td class="operation">
+                        <a class="btn btn-info" asp-action="details" asp-route-id="@child.Id">
+                            <i class="fa fa-eye"></i>
+                        </a>
+                        <a class="btn btn-warning" asp-action="update" asp-route-id="@child.Id">
+                            <i class="fa fa-pencil"></i>
+                        </a>
+                        <a class="btn btn-danger" onclick="remove(@child.Id,'@child.Name')">
+                            <i class="fa fa-trash"></i>
+                        </a>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+
+
+
+
+@section custom_css {
+    <link href="/libs/jquery-treegrid/css/jquery.treegrid.css" rel="stylesheet" />
+}
+
+
+@section custom_js {
+    <script src="/libs/jquery-treegrid/js/jquery.treegrid.js"></script>
+    <script>
+        $('.tree').treegrid().treegrid('collapseAll');
+    </script>
+    <script>
+
+        function remove(id, name) {
+
+            const body = $("#body");
+
+            Swal.fire({
+                title: "Are you sure?",
+                text: "You won't be able to revert this!",
+                icon: "warning",
+                showCancelButton: true,
+                confirmButtonColor: "#3085d6",
+                cancelButtonColor: "#d33",
+                confirmButtonText: "Yes, delete it!"
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    $.ajax({
+                        method: "POST",
+                        url: '@Url.Action("delete", "categories")',
+                        data: { id },
+                        success: (result) => {
+                            if (!result.error) {
+                                Swal.fire({
+                                    title: "Deleted!",
+                                    text: result.message,
+                                    icon: "success"
+                                });
+
+                                body.html(result);
+                                return;
+                            }
+                            Swal.fire({
+                                title: "Not deleted!",
+                                text: result.message,
+                                icon: "error"
+                            });
+                        },
+                        error: (error) => {
+
+                        }
+
+
+                    })
+                }
+            });
+        }
+
+    </script>
+}
+

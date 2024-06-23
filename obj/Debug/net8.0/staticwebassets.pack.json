@@ -5965,6 +5965,54 @@
       "PackagePath": "staticwebassets\\assets\\js\\wow.min.js"
     },
     {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\libs\\jquery-treegrid\\css\\jquery.treegrid.css",
+      "PackagePath": "staticwebassets\\libs\\jquery-treegrid\\css\\jquery.treegrid.css"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\libs\\jquery-treegrid\\css\\jquery.treegrid.min.css",
+      "PackagePath": "staticwebassets\\libs\\jquery-treegrid\\css\\jquery.treegrid.min.css"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\libs\\jquery-treegrid\\img\\collapse.png",
+      "PackagePath": "staticwebassets\\libs\\jquery-treegrid\\img\\collapse.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\libs\\jquery-treegrid\\img\\expand.png",
+      "PackagePath": "staticwebassets\\libs\\jquery-treegrid\\img\\expand.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\libs\\jquery-treegrid\\img\\file.png",
+      "PackagePath": "staticwebassets\\libs\\jquery-treegrid\\img\\file.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\libs\\jquery-treegrid\\img\\folder.png",
+      "PackagePath": "staticwebassets\\libs\\jquery-treegrid\\img\\folder.png"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\libs\\jquery-treegrid\\js\\jquery.treegrid.bootstrap2.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-treegrid\\js\\jquery.treegrid.bootstrap2.js"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\libs\\jquery-treegrid\\js\\jquery.treegrid.bootstrap2.min.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-treegrid\\js\\jquery.treegrid.bootstrap2.min.js"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\libs\\jquery-treegrid\\js\\jquery.treegrid.bootstrap3.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-treegrid\\js\\jquery.treegrid.bootstrap3.js"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\libs\\jquery-treegrid\\js\\jquery.treegrid.bootstrap3.min.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-treegrid\\js\\jquery.treegrid.bootstrap3.min.js"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\libs\\jquery-treegrid\\js\\jquery.treegrid.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-treegrid\\js\\jquery.treegrid.js"
+    },
+    {
+      "Id": "D:\\C#\\BigonApp\\wwwroot\\libs\\jquery-treegrid\\js\\jquery.treegrid.min.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-treegrid\\js\\jquery.treegrid.min.js"
+    },
+    {
       "Id": "D:\\C#\\BigonApp\\wwwroot\\libs\\sweetalert2\\sweetalert2.all.js",
       "PackagePath": "staticwebassets\\libs\\sweetalert2\\sweetalert2.all.js"
     },

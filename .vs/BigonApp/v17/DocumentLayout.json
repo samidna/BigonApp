@@ -3,6 +3,133 @@
   "WorkspaceRootPath": "D:\\C#\\BigonApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\areas\\admin\\views\\blogposts\\_body.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:areas\\admin\\views\\blogposts\\_body.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\areas\\admin\\views\\blogposts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:areas\\admin\\views\\blogposts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\areas\\admin\\views\\color\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:areas\\admin\\views\\color\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\areas\\admin\\views\\color\\_body.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:areas\\admin\\views\\color\\_body.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\areas\\admin\\views\\categories\\_body.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:areas\\admin\\views\\categories\\_body.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\areas\\admin\\views\\color\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:areas\\admin\\views\\color\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90323810-7658-439E-B6FC-84C1E6C2DA1C}|..\\BigonApp.Business\\BigonApp.Business.csproj|d:\\c#\\bigonapp.business\\modules\\categorymodules\\commands\\categorydelete\\categorydeleterequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90323810-7658-439E-B6FC-84C1E6C2DA1C}|..\\BigonApp.Business\\BigonApp.Business.csproj|d:\\c#\\bigonapp.business\\modules\\categorymodules\\commands\\categorydelete\\categorydeleterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90323810-7658-439E-B6FC-84C1E6C2DA1C}|..\\BigonApp.Business\\BigonApp.Business.csproj|d:\\c#\\bigonapp.business\\modules\\categorymodules\\queries\\categorygetbyid\\categorygetbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90323810-7658-439E-B6FC-84C1E6C2DA1C}|..\\BigonApp.Business\\BigonApp.Business.csproj|d:\\c#\\bigonapp.business\\modules\\categorymodules\\queries\\categorygetall\\categorygetalldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90323810-7658-439E-B6FC-84C1E6C2DA1C}|..\\BigonApp.Business\\BigonApp.Business.csproj|d:\\c#\\bigonapp.business\\modules\\blogpostsmodules\\queries\\blogpostsgetall\\blogpostsgetalldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90323810-7658-439E-B6FC-84C1E6C2DA1C}|..\\BigonApp.Business\\BigonApp.Business.csproj|d:\\c#\\bigonapp.business\\modules\\categorymodules\\commands\\categoryupdate\\categoryupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90323810-7658-439E-B6FC-84C1E6C2DA1C}|..\\BigonApp.Business\\BigonApp.Business.csproj|d:\\c#\\bigonapp.business\\modules\\blogpostsmodules\\commands\\blogpostdelete\\blogpostdeleterequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90323810-7658-439E-B6FC-84C1E6C2DA1C}|..\\BigonApp.Business\\BigonApp.Business.csproj|d:\\c#\\bigonapp.business\\modules\\categorymodules\\queries\\categorygetbyid\\categorygetbyidrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90323810-7658-439E-B6FC-84C1E6C2DA1C}|..\\BigonApp.Business\\BigonApp.Business.csproj|d:\\c#\\bigonapp.business\\modules\\categorymodules\\queries\\categorygetall\\categorygetallrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\areas\\admin\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:areas\\admin\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90323810-7658-439E-B6FC-84C1E6C2DA1C}|..\\BigonApp.Business\\BigonApp.Business.csproj|d:\\c#\\bigonapp.business\\modules\\categorymodules\\commands\\categoryupdate\\categoryupdaterequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D775ED-F0F4-4BEA-B3BF-7A0ECDE6D7E0}|..\\BigonApp.Infrastructure\\BigonApp.Infrastructure.csproj|d:\\c#\\bigonapp.infrastructure\\commons\\implements\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D775ED-F0F4-4BEA-B3BF-7A0ECDE6D7E0}|..\\BigonApp.Infrastructure\\BigonApp.Infrastructure.csproj|d:\\c#\\bigonapp.infrastructure\\commons\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\areas\\admin\\views\\categories\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:areas\\admin\\views\\categories\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A47344-3B56-486F-A47F-A899B495795A}|..\\BigonApp.Data\\BigonApp.Data.csproj|d:\\c#\\bigonapp.data\\dataserviceinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90323810-7658-439E-B6FC-84C1E6C2DA1C}|..\\BigonApp.Business\\BigonApp.Business.csproj|d:\\c#\\bigonapp.business\\modules\\categorymodules\\commands\\categoryadd\\categoryaddrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\areas\\admin\\views\\blogposts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:areas\\admin\\views\\blogposts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90323810-7658-439E-B6FC-84C1E6C2DA1C}|..\\BigonApp.Business\\BigonApp.Business.csproj|d:\\c#\\bigonapp.business\\modules\\categorymodules\\commands\\categoryadd\\categoryaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\areas\\admin\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:areas\\admin\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\areas\\admin\\views\\blogposts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:areas\\admin\\views\\blogposts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90323810-7658-439E-B6FC-84C1E6C2DA1C}|..\\BigonApp.Business\\BigonApp.Business.csproj|d:\\c#\\bigonapp.business\\modules\\categorymodules\\queries\\categorygetbyid\\categorygetbyidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D775ED-F0F4-4BEA-B3BF-7A0ECDE6D7E0}|..\\BigonApp.Infrastructure\\BigonApp.Infrastructure.csproj|d:\\c#\\bigonapp.infrastructure\\commons\\implements\\emailoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\areas\\admin\\views\\blogposts\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:areas\\admin\\views\\blogposts\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D775ED-F0F4-4BEA-B3BF-7A0ECDE6D7E0}|..\\BigonApp.Infrastructure\\BigonApp.Infrastructure.csproj|d:\\c#\\bigonapp.infrastructure\\extensions\\categoryextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90323810-7658-439E-B6FC-84C1E6C2DA1C}|..\\BigonApp.Business\\BigonApp.Business.csproj|d:\\c#\\bigonapp.business\\modules\\categorymodules\\queries\\categorygetall\\categorygetallrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90323810-7658-439E-B6FC-84C1E6C2DA1C}|..\\BigonApp.Business\\BigonApp.Business.csproj|d:\\c#\\bigonapp.business\\modules\\blogpostsmodules\\commands\\blogpostdelete\\blogpostdeleterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90323810-7658-439E-B6FC-84C1E6C2DA1C}|..\\BigonApp.Business\\BigonApp.Business.csproj|d:\\c#\\bigonapp.business\\modules\\blogpostsmodules\\queries\\blogpostsgetall\\blogpostsgetallrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{90323810-7658-439E-B6FC-84C1E6C2DA1C}|..\\BigonApp.Business\\BigonApp.Business.csproj|d:\\c#\\bigonapp.business\\ibusinessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -10,14 +137,8 @@
       "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66A47344-3B56-486F-A47F-A899B495795A}|..\\BigonApp.Data\\BigonApp.Data.csproj|d:\\c#\\bigonapp.data\\dataserviceinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90323810-7658-439E-B6FC-84C1E6C2DA1C}|..\\BigonApp.Business\\BigonApp.Business.csproj|d:\\c#\\bigonapp.business\\modules\\blogpostsmodules\\queries\\blogpostsgetall\\blogpostsgetallrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90323810-7658-439E-B6FC-84C1E6C2DA1C}|..\\BigonApp.Business\\BigonApp.Business.csproj|d:\\c#\\bigonapp.business\\modules\\blogpostsmodules\\queries\\blogpostsgetbyid\\blogpostsgetbyidrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -38,10 +159,6 @@
       "AbsoluteMoniker": "D:0:0:{E3D775ED-F0F4-4BEA-B3BF-7A0ECDE6D7E0}|..\\BigonApp.Infrastructure\\BigonApp.Infrastructure.csproj|d:\\c#\\bigonapp.infrastructure\\services\\implements\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\areas\\admin\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:areas\\admin\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -58,28 +175,12 @@
       "AbsoluteMoniker": "D:0:0:{90323810-7658-439E-B6FC-84C1E6C2DA1C}|..\\BigonApp.Business\\BigonApp.Business.csproj|d:\\c#\\bigonapp.business\\modules\\blogpostsmodules\\commands\\blogpostsadd\\blogpostsaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\areas\\admin\\views\\blogposts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:areas\\admin\\views\\blogposts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\areas\\admin\\views\\blogposts\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:areas\\admin\\views\\blogposts\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\wwwroot\\admin\\assets\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:wwwroot\\admin\\assets\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\wwwroot\\admin\\assets\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:wwwroot\\admin\\assets\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|d:\\c#\\bigonapp\\areas\\admin\\views\\blogposts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24E16CD0-B4FD-4F0A-8D2A-1C3E46165D59}|BigonApp.UI.csproj|solutionrelative:areas\\admin\\views\\blogposts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90323810-7658-439E-B6FC-84C1E6C2DA1C}|..\\BigonApp.Business\\BigonApp.Business.csproj|d:\\c#\\bigonapp.business\\modules\\blogpostsmodules\\queries\\blogpostsgetbyid\\blogpostsgetbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -102,7 +203,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,7 +211,475 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Color\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Color\\Index.cshtml",
+              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Color\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Color\\Index.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T09:42:54.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Color\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Color\\Create.cshtml",
+              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Color\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Color\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T09:42:52.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Body.cshtml",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Color\\_Body.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Color\\_Body.cshtml",
+              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Color\\_Body.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Color\\_Body.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T09:42:35.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Body.cshtml",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Categories\\_Body.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Categories\\_Body.cshtml",
+              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Categories\\_Body.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Categories\\_Body.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAkAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T09:39:39.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T07:32:37.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\BlogPosts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\BlogPosts\\Index.cshtml",
+              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\BlogPosts\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\BlogPosts\\Index.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T07:10:25.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Body.cshtml",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\BlogPosts\\_Body.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\BlogPosts\\_Body.cshtml",
+              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\BlogPosts\\_Body.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\BlogPosts\\_Body.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T07:10:17.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryDeleteRequestHandler.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp.Business\\Modules\\CategoryModules\\Commands\\CategoryDelete\\CategoryDeleteRequestHandler.cs",
+              "RelativeDocumentMoniker": "..\\BigonApp.Business\\Modules\\CategoryModules\\Commands\\CategoryDelete\\CategoryDeleteRequestHandler.cs",
+              "ToolTip": "D:\\C#\\BigonApp.Business\\Modules\\CategoryModules\\Commands\\CategoryDelete\\CategoryDeleteRequestHandler.cs",
+              "RelativeToolTip": "..\\BigonApp.Business\\Modules\\CategoryModules\\Commands\\CategoryDelete\\CategoryDeleteRequestHandler.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAmwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:29:39.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryDeleteRequest.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp.Business\\Modules\\CategoryModules\\Commands\\CategoryDelete\\CategoryDeleteRequest.cs",
+              "RelativeDocumentMoniker": "..\\BigonApp.Business\\Modules\\CategoryModules\\Commands\\CategoryDelete\\CategoryDeleteRequest.cs",
+              "ToolTip": "D:\\C#\\BigonApp.Business\\Modules\\CategoryModules\\Commands\\CategoryDelete\\CategoryDeleteRequest.cs",
+              "RelativeToolTip": "..\\BigonApp.Business\\Modules\\CategoryModules\\Commands\\CategoryDelete\\CategoryDeleteRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:28:44.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T07:30:11.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryGetByIdDto.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp.Business\\Modules\\CategoryModules\\Queries\\CategoryGetById\\CategoryGetByIdDto.cs",
+              "RelativeDocumentMoniker": "..\\BigonApp.Business\\Modules\\CategoryModules\\Queries\\CategoryGetById\\CategoryGetByIdDto.cs",
+              "ToolTip": "D:\\C#\\BigonApp.Business\\Modules\\CategoryModules\\Queries\\CategoryGetById\\CategoryGetByIdDto.cs",
+              "RelativeToolTip": "..\\BigonApp.Business\\Modules\\CategoryModules\\Queries\\CategoryGetById\\CategoryGetByIdDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T07:57:21.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryGetAllDto.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp.Business\\Modules\\CategoryModules\\Queries\\CategoryGetAll\\CategoryGetAllDto.cs",
+              "RelativeDocumentMoniker": "..\\BigonApp.Business\\Modules\\CategoryModules\\Queries\\CategoryGetAll\\CategoryGetAllDto.cs",
+              "ToolTip": "D:\\C#\\BigonApp.Business\\Modules\\CategoryModules\\Queries\\CategoryGetAll\\CategoryGetAllDto.cs",
+              "RelativeToolTip": "..\\BigonApp.Business\\Modules\\CategoryModules\\Queries\\CategoryGetAll\\CategoryGetAllDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:36:05.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BlogPostsGetAllDto.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetAll\\BlogPostsGetAllDto.cs",
+              "RelativeDocumentMoniker": "..\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetAll\\BlogPostsGetAllDto.cs",
+              "ToolTip": "D:\\C#\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetAll\\BlogPostsGetAllDto.cs",
+              "RelativeToolTip": "..\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetAll\\BlogPostsGetAllDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:36:42.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BlogPostDeleteRequestHandler.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp.Business\\Modules\\BlogPostsModules\\Commands\\BlogPostDelete\\BlogPostDeleteRequestHandler.cs",
+              "RelativeDocumentMoniker": "..\\BigonApp.Business\\Modules\\BlogPostsModules\\Commands\\BlogPostDelete\\BlogPostDeleteRequestHandler.cs",
+              "ToolTip": "D:\\C#\\BigonApp.Business\\Modules\\BlogPostsModules\\Commands\\BlogPostDelete\\BlogPostDeleteRequestHandler.cs",
+              "RelativeToolTip": "..\\BigonApp.Business\\Modules\\BlogPostsModules\\Commands\\BlogPostDelete\\BlogPostDeleteRequestHandler.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T07:04:06.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryGetByIdRequestHandler.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp.Business\\Modules\\CategoryModules\\Queries\\CategoryGetById\\CategoryGetByIdRequestHandler.cs",
+              "RelativeDocumentMoniker": "..\\BigonApp.Business\\Modules\\CategoryModules\\Queries\\CategoryGetById\\CategoryGetByIdRequestHandler.cs",
+              "ToolTip": "D:\\C#\\BigonApp.Business\\Modules\\CategoryModules\\Queries\\CategoryGetById\\CategoryGetByIdRequestHandler.cs",
+              "RelativeToolTip": "..\\BigonApp.Business\\Modules\\CategoryModules\\Queries\\CategoryGetById\\CategoryGetByIdRequestHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwBQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T07:59:07.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryUpdateRequest.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp.Business\\Modules\\CategoryModules\\Commands\\CategoryUpdate\\CategoryUpdateRequest.cs",
+              "RelativeDocumentMoniker": "..\\BigonApp.Business\\Modules\\CategoryModules\\Commands\\CategoryUpdate\\CategoryUpdateRequest.cs",
+              "ToolTip": "D:\\C#\\BigonApp.Business\\Modules\\CategoryModules\\Commands\\CategoryUpdate\\CategoryUpdateRequest.cs",
+              "RelativeToolTip": "..\\BigonApp.Business\\Modules\\CategoryModules\\Commands\\CategoryUpdate\\CategoryUpdateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:04:45.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryGetAllRequestHandler.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp.Business\\Modules\\CategoryModules\\Queries\\CategoryGetAll\\CategoryGetAllRequestHandler.cs",
+              "RelativeDocumentMoniker": "..\\BigonApp.Business\\Modules\\CategoryModules\\Queries\\CategoryGetAll\\CategoryGetAllRequestHandler.cs",
+              "ToolTip": "D:\\C#\\BigonApp.Business\\Modules\\CategoryModules\\Queries\\CategoryGetAll\\CategoryGetAllRequestHandler.cs",
+              "RelativeToolTip": "..\\BigonApp.Business\\Modules\\CategoryModules\\Queries\\CategoryGetAll\\CategoryGetAllRequestHandler.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T07:21:26.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryUpdateRequestHandler.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp.Business\\Modules\\CategoryModules\\Commands\\CategoryUpdate\\CategoryUpdateRequestHandler.cs",
+              "RelativeDocumentMoniker": "..\\BigonApp.Business\\Modules\\CategoryModules\\Commands\\CategoryUpdate\\CategoryUpdateRequestHandler.cs",
+              "ToolTip": "D:\\C#\\BigonApp.Business\\Modules\\CategoryModules\\Commands\\CategoryUpdate\\CategoryUpdateRequestHandler.cs",
+              "RelativeToolTip": "..\\BigonApp.Business\\Modules\\CategoryModules\\Commands\\CategoryUpdate\\CategoryUpdateRequestHandler.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:05:36.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp.Infrastructure\\Commons\\Implements\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\BigonApp.Infrastructure\\Commons\\Implements\\Repository.cs",
+              "ToolTip": "D:\\C#\\BigonApp.Infrastructure\\Commons\\Implements\\Repository.cs",
+              "RelativeToolTip": "..\\BigonApp.Infrastructure\\Commons\\Implements\\Repository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:16:10.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp.Infrastructure\\Commons\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\BigonApp.Infrastructure\\Commons\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\C#\\BigonApp.Infrastructure\\Commons\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "..\\BigonApp.Infrastructure\\Commons\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAcAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:14:26.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BlogPostsController.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Controllers\\BlogPostsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\BlogPostsController.cs",
+              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Controllers\\BlogPostsController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\BlogPostsController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T11:45:22.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Categories\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Categories\\Update.cshtml",
+              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Categories\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Categories\\Update.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwBYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T09:03:11.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T08:38:35.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DataServiceInjection.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp.Data\\DataServiceInjection.cs",
+              "RelativeDocumentMoniker": "..\\BigonApp.Data\\DataServiceInjection.cs",
+              "ToolTip": "D:\\C#\\BigonApp.Data\\DataServiceInjection.cs",
+              "RelativeToolTip": "..\\BigonApp.Data\\DataServiceInjection.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T13:42:22.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoryAddRequest.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp.Business\\Modules\\CategoryModules\\Commands\\CategoryAdd\\CategoryAddRequest.cs",
+              "RelativeDocumentMoniker": "..\\BigonApp.Business\\Modules\\CategoryModules\\Commands\\CategoryAdd\\CategoryAddRequest.cs",
+              "ToolTip": "D:\\C#\\BigonApp.Business\\Modules\\CategoryModules\\Commands\\CategoryAdd\\CategoryAddRequest.cs",
+              "RelativeToolTip": "..\\BigonApp.Business\\Modules\\CategoryModules\\Commands\\CategoryAdd\\CategoryAddRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:35:48.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\BlogPosts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\BlogPosts\\Create.cshtml",
+              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\BlogPosts\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\BlogPosts\\Create.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAiwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T12:03:03.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoryAddRequestHandler.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp.Business\\Modules\\CategoryModules\\Commands\\CategoryAdd\\CategoryAddRequestHandler.cs",
+              "RelativeDocumentMoniker": "..\\BigonApp.Business\\Modules\\CategoryModules\\Commands\\CategoryAdd\\CategoryAddRequestHandler.cs",
+              "ToolTip": "D:\\C#\\BigonApp.Business\\Modules\\CategoryModules\\Commands\\CategoryAdd\\CategoryAddRequestHandler.cs",
+              "RelativeToolTip": "..\\BigonApp.Business\\Modules\\CategoryModules\\Commands\\CategoryAdd\\CategoryAddRequestHandler.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:36:25.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T08:08:12.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\BlogPosts\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\BlogPosts\\Details.cshtml",
+              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\BlogPosts\\Details.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\BlogPosts\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T11:47:24.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoryGetByIdRequest.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp.Business\\Modules\\CategoryModules\\Queries\\CategoryGetById\\CategoryGetByIdRequest.cs",
+              "RelativeDocumentMoniker": "..\\BigonApp.Business\\Modules\\CategoryModules\\Queries\\CategoryGetById\\CategoryGetByIdRequest.cs",
+              "ToolTip": "D:\\C#\\BigonApp.Business\\Modules\\CategoryModules\\Queries\\CategoryGetById\\CategoryGetByIdRequest.cs",
+              "RelativeToolTip": "..\\BigonApp.Business\\Modules\\CategoryModules\\Queries\\CategoryGetById\\CategoryGetByIdRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T07:58:12.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EmailOptions.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp.Infrastructure\\Commons\\Implements\\EmailOptions.cs",
+              "RelativeDocumentMoniker": "..\\BigonApp.Infrastructure\\Commons\\Implements\\EmailOptions.cs",
+              "ToolTip": "D:\\C#\\BigonApp.Infrastructure\\Commons\\Implements\\EmailOptions.cs",
+              "RelativeToolTip": "..\\BigonApp.Infrastructure\\Commons\\Implements\\EmailOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T07:54:07.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CategoryExtension.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp.Infrastructure\\Extensions\\CategoryExtension.cs",
+              "RelativeDocumentMoniker": "..\\BigonApp.Infrastructure\\Extensions\\CategoryExtension.cs",
+              "ToolTip": "D:\\C#\\BigonApp.Infrastructure\\Extensions\\CategoryExtension.cs",
+              "RelativeToolTip": "..\\BigonApp.Infrastructure\\Extensions\\CategoryExtension.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T07:33:47.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T12:21:47.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\BlogPosts\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\BlogPosts\\Update.cshtml",
+              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\BlogPosts\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\BlogPosts\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T12:13:15.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoryGetAllRequest.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp.Business\\Modules\\CategoryModules\\Queries\\CategoryGetAll\\CategoryGetAllRequest.cs",
+              "RelativeDocumentMoniker": "..\\BigonApp.Business\\Modules\\CategoryModules\\Queries\\CategoryGetAll\\CategoryGetAllRequest.cs",
+              "ToolTip": "D:\\C#\\BigonApp.Business\\Modules\\CategoryModules\\Queries\\CategoryGetAll\\CategoryGetAllRequest.cs",
+              "RelativeToolTip": "..\\BigonApp.Business\\Modules\\CategoryModules\\Queries\\CategoryGetAll\\CategoryGetAllRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T07:20:59.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BlogPostDeleteRequest.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp.Business\\Modules\\BlogPostsModules\\Commands\\BlogPostDelete\\BlogPostDeleteRequest.cs",
+              "RelativeDocumentMoniker": "..\\BigonApp.Business\\Modules\\BlogPostsModules\\Commands\\BlogPostDelete\\BlogPostDeleteRequest.cs",
+              "ToolTip": "D:\\C#\\BigonApp.Business\\Modules\\BlogPostsModules\\Commands\\BlogPostDelete\\BlogPostDeleteRequest.cs",
+              "RelativeToolTip": "..\\BigonApp.Business\\Modules\\BlogPostsModules\\Commands\\BlogPostDelete\\BlogPostDeleteRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T07:03:28.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
               "Title": "IBusinessService.cs",
               "DocumentMoniker": "D:\\C#\\BigonApp.Business\\IBusinessService.cs",
               "RelativeDocumentMoniker": "..\\BigonApp.Business\\IBusinessService.cs",
@@ -123,19 +692,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DataServiceInjection.cs",
-              "DocumentMoniker": "D:\\C#\\BigonApp.Data\\DataServiceInjection.cs",
-              "RelativeDocumentMoniker": "..\\BigonApp.Data\\DataServiceInjection.cs",
-              "ToolTip": "D:\\C#\\BigonApp.Data\\DataServiceInjection.cs",
-              "RelativeToolTip": "..\\BigonApp.Data\\DataServiceInjection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 36,
+              "Title": "BlogPostsGetAllRequestHandler.cs",
+              "DocumentMoniker": "D:\\C#\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetAll\\BlogPostsGetAllRequestHandler.cs",
+              "RelativeDocumentMoniker": "..\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetAll\\BlogPostsGetAllRequestHandler.cs",
+              "ToolTip": "D:\\C#\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetAll\\BlogPostsGetAllRequestHandler.cs",
+              "RelativeToolTip": "..\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetAll\\BlogPostsGetAllRequestHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T13:42:22.845Z"
+              "WhenOpened": "2024-06-22T13:23:33.882Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 38,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C#\\BigonApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -147,19 +717,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BlogPostsGetAllRequestHandler.cs",
-              "DocumentMoniker": "D:\\C#\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetAll\\BlogPostsGetAllRequestHandler.cs",
-              "RelativeDocumentMoniker": "..\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetAll\\BlogPostsGetAllRequestHandler.cs",
-              "ToolTip": "D:\\C#\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetAll\\BlogPostsGetAllRequestHandler.cs",
-              "RelativeToolTip": "..\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetAll\\BlogPostsGetAllRequestHandler.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAqwB8AAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T13:23:33.882Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 42,
               "Title": "BlogPostsAddRequestHandler.cs",
               "DocumentMoniker": "D:\\C#\\BigonApp.Business\\Modules\\BlogPostsModules\\Commands\\BlogPostsAdd\\BlogPostsAddRequestHandler.cs",
               "RelativeDocumentMoniker": "..\\BigonApp.Business\\Modules\\BlogPostsModules\\Commands\\BlogPostsAdd\\BlogPostsAddRequestHandler.cs",
@@ -171,7 +729,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 39,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\C#\\BigonApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -183,7 +741,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 41,
               "Title": "RegExtensions.cs",
               "DocumentMoniker": "D:\\C#\\BigonApp.Infrastructure\\Extensions\\RegExtensions.cs",
               "RelativeDocumentMoniker": "..\\BigonApp.Infrastructure\\Extensions\\RegExtensions.cs",
@@ -195,7 +753,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 40,
               "Title": "BlogPostsGetByIdRequestHandler.cs",
               "DocumentMoniker": "D:\\C#\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetById\\BlogPostsGetByIdRequestHandler.cs",
               "RelativeDocumentMoniker": "..\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetById\\BlogPostsGetByIdRequestHandler.cs",
@@ -207,7 +765,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 43,
               "Title": "BlogPostUpdateRequestHandler.cs",
               "DocumentMoniker": "D:\\C#\\BigonApp.Business\\Modules\\BlogPostsModules\\Commands\\BlogPostUpdate\\BlogPostUpdateRequestHandler.cs",
               "RelativeDocumentMoniker": "..\\BigonApp.Business\\Modules\\BlogPostsModules\\Commands\\BlogPostUpdate\\BlogPostUpdateRequestHandler.cs",
@@ -219,7 +777,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 44,
               "Title": "ValidationExtension.cs",
               "DocumentMoniker": "D:\\C#\\BigonApp.Infrastructure\\Extensions\\ValidationExtension.cs",
               "RelativeDocumentMoniker": "..\\BigonApp.Infrastructure\\Extensions\\ValidationExtension.cs",
@@ -231,7 +789,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 45,
               "Title": "EmailService.cs",
               "DocumentMoniker": "D:\\C#\\BigonApp.Infrastructure\\Services\\Implements\\EmailService.cs",
               "RelativeDocumentMoniker": "..\\BigonApp.Infrastructure\\Services\\Implements\\EmailService.cs",
@@ -243,7 +801,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 46,
               "Title": "BlogsController.cs",
               "DocumentMoniker": "D:\\C#\\BigonApp\\Controllers\\BlogsController.cs",
               "RelativeDocumentMoniker": "Controllers\\BlogsController.cs",
@@ -255,7 +813,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 47,
               "Title": "FileService.cs",
               "DocumentMoniker": "D:\\C#\\BigonApp.Infrastructure\\Services\\Implements\\FileService.cs",
               "RelativeDocumentMoniker": "..\\BigonApp.Infrastructure\\Services\\Implements\\FileService.cs",
@@ -267,7 +825,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 48,
               "Title": "IFileService.cs",
               "DocumentMoniker": "D:\\C#\\BigonApp.Infrastructure\\Services\\Interfaces\\IFileService.cs",
               "RelativeDocumentMoniker": "..\\BigonApp.Infrastructure\\Services\\Interfaces\\IFileService.cs",
@@ -279,7 +837,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 49,
               "Title": "BlogPostUpdateRequest.cs",
               "DocumentMoniker": "D:\\C#\\BigonApp.Business\\Modules\\BlogPostsModules\\Commands\\BlogPostUpdate\\BlogPostUpdateRequest.cs",
               "RelativeDocumentMoniker": "..\\BigonApp.Business\\Modules\\BlogPostsModules\\Commands\\BlogPostUpdate\\BlogPostUpdateRequest.cs",
@@ -291,19 +849,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BlogPostsController.cs",
-              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Controllers\\BlogPostsController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\BlogPostsController.cs",
-              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Controllers\\BlogPostsController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\BlogPostsController.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAxwDcAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T11:45:22.369Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 50,
               "Title": "BlogPostsAddRequest.cs",
               "DocumentMoniker": "D:\\C#\\BigonApp.Business\\Modules\\BlogPostsModules\\Commands\\BlogPostsAdd\\BlogPostsAddRequest.cs",
               "RelativeDocumentMoniker": "..\\BigonApp.Business\\Modules\\BlogPostsModules\\Commands\\BlogPostsAdd\\BlogPostsAddRequest.cs",
@@ -315,19 +861,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAKMAAAAAAAAAAAAAACQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-22T12:21:47.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 52,
               "Title": "custom.js",
               "DocumentMoniker": "D:\\C#\\BigonApp\\wwwroot\\admin\\assets\\js\\custom.js",
               "RelativeDocumentMoniker": "wwwroot\\admin\\assets\\js\\custom.js",
@@ -339,7 +873,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 51,
               "Title": "custom.css",
               "DocumentMoniker": "D:\\C#\\BigonApp\\wwwroot\\admin\\assets\\css\\custom.css",
               "RelativeDocumentMoniker": "wwwroot\\admin\\assets\\css\\custom.css",
@@ -351,43 +885,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\BlogPosts\\Update.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\BlogPosts\\Update.cshtml",
-              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\BlogPosts\\Update.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\BlogPosts\\Update.cshtml",
-              "ViewState": "AQIAACYAAAAAAAAAAAAAACYAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-22T12:13:15.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\BlogPosts\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\BlogPosts\\Create.cshtml",
-              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\BlogPosts\\Create.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\BlogPosts\\Create.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAADEAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-22T12:03:03.252Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\BlogPosts\\Details.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\BlogPosts\\Details.cshtml",
-              "ToolTip": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\BlogPosts\\Details.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\BlogPosts\\Details.cshtml",
-              "ViewState": "AQIAABEAAAAAAAAAAAAnwBoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-22T11:47:24.354Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 54,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\C#\\BigonApp\\Areas\\Admin\\Views\\Color\\Details.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Color\\Details.cshtml",
@@ -399,7 +897,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 53,
               "Title": "BlogPostsGetByIdDto.cs",
               "DocumentMoniker": "D:\\C#\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetById\\BlogPostsGetByIdDto.cs",
               "RelativeDocumentMoniker": "..\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetById\\BlogPostsGetByIdDto.cs",
@@ -411,7 +909,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 55,
               "Title": "BlogPostsGetByIdRequest.cs",
               "DocumentMoniker": "D:\\C#\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetById\\BlogPostsGetByIdRequest.cs",
               "RelativeDocumentMoniker": "..\\BigonApp.Business\\Modules\\BlogPostsModules\\Queries\\BlogPostsGetById\\BlogPostsGetByIdRequest.cs",
@@ -423,7 +921,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 56,
               "Title": "BlogPost.cs",
               "DocumentMoniker": "D:\\C#\\BigonApp.Infrastructure\\Entities\\BlogPost.cs",
               "RelativeDocumentMoniker": "..\\BigonApp.Infrastructure\\Entities\\BlogPost.cs",
